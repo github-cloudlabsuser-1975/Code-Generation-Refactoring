@@ -1,0 +1,4 @@
+# Agrega aquí los paquetes necesarios para tu proyecto Python.
+# Ejemplo:
+flask==2.3.3
+requests>=2.31.0
